@@ -7,3 +7,4 @@ This repo will look at two different directories and see what photos are doubles
 * move photos from the second directory and add them to a place that can be removed later data
 * build testing file to ensure the functions are working properlpy
 
+Testing the commit is set up to push code
